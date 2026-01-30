@@ -1,6 +1,6 @@
 #  Movie Recommendation System
 
-A full-stack **Content-Based Movie Recommendation System** built with **FastAPI** backend and **Streamlit** frontend, powered by **TF-IDF** similarity and **TMDB API**.
+A  **Content-Based Movie Recommendation System** built with **FastAPI** backend and **Streamlit** frontend, powered by **TF-IDF** similarity and **TMDB API**.
 
 ##  Live Demo
 - **Frontend:** Streamlit Web App
